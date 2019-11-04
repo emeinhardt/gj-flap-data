@@ -9,4 +9,4 @@ The goal of this notebook is processing the CMU pronouncing dictionary to create
  
  ## Outputs
  
- Currently the only output of the notebook is a `.tsv` file with positive examples of flappable URs and the flapped SRs.
+ Currently the only output of the notebook is a `.tsv` file with positive examples of flappable underyling representationss and the flapped surface representations.
